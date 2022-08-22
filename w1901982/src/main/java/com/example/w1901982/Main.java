@@ -111,7 +111,7 @@ public class Main extends Application {
     static void q_empty() {   // view all empty queues
         for (int i = 0; i < 5; i++) {
             if (queue[i][0] == null) {
-                System.out.println("Line number " + (i + 1) + " is still empty");
+                System.out.println("Line number " + (i + 1) + " is still emptyyyyyy");
             } else {
                 System.out.println("Line number " + (i + 1) + " is not empty");
             }
