@@ -126,7 +126,7 @@ public class Main extends Application {
             System.out.println("Queue No:" + (i + 1));
             for (int j = 0; j < 6; j++) {
                 if (queue[i][j] == null) {
-                    System.out.println("empty");
+                    System.out.println("empty/empty......");
                 }
                 else {
                     System.out.println("Already occupied");
